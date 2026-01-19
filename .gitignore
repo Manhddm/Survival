@@ -1,0 +1,73 @@
+# ================= UNITY =================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity Library cache (IMPORTANT)
+Library/ArtifactDB/
+Library/SourceAssetDB/
+Library/ShaderCache/
+
+# Addressables
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# StreamingAssets (Android)
+[Aa]ssets/[Ss]treamingAssets/aa.meta
+[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# ================= IDE =================
+.vs/
+.vscode/
+.idea/
+
+# ================= OS =================
+.DS_Store
+Thumbs.db
+
+# ================= BUILD =================
+*.apk
+*.aab
+*.app
+*.unitypackage
+
+# ================= IDE GENERATED =================
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ================= UNITY META =================
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# ================= LARGE ASSETS =================
+*.psd
+*.tif
+*.tiff
+*.wav
+*.mp3
+*.ogg
+*.fbx
+*.blend
+*.mp4
+*.mov
+*.zip
